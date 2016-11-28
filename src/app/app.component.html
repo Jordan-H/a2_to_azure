@@ -1,0 +1,14 @@
+<div>
+  <nav *ngIf="alive">
+      <a routerLink="/login">Login</a>
+      <a routerLink="/register">Register</a>
+  </nav> 
+  <router-outlet></router-outlet>
+  <div *ngIf="!alive">
+  <app-logout> </app-logout>
+  </div>
+</div>
+
+<div>
+  <app-post></app-post>
+</div>
