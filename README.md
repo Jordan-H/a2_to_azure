@@ -1,10 +1,10 @@
 # ZenithClientSite
 
-AngularJS counterpart to https://github.com/Jordan-H/Zenith_assignment_V2 (specifically the ZenithAssignment directory within)
-Section uploaded seperately for continuous integration between Microsoft Azure and Github.
-Can be viewed at http://a2client.haramlee.info/ but requires an account from http://a2.haramlee.info/ which contains the backend
-and API for the client site.
+AngularJS counterpart to https://github.com/Jordan-H/Zenith_assignment_V2 (specifically the ZenithAssignment directory within) <br/> <br/>
+Section uploaded seperately for continuous integration between Microsoft Azure and Github.<br/> <br/>
+Can be viewed at http://a2client.haramlee.info/ but requires an account from http://a2.haramlee.info/ which contains the backend and API for the client site.
 
+<br/><b>**** Rest of file is auto-generated ****</b><br/>
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
